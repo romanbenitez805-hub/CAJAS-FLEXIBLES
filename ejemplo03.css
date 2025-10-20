@@ -1,0 +1,16 @@
+.contenedor{
+    background-color: rgb(141, 68, 0);
+    display: inline-flex;
+    flex-wrap: nowrap;
+    flex-wrap: wrap;
+    /*flex-wrap: wrap-reverse;*/
+}
+
+.item{
+    background-color: #ffef12;
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+    font-size: 30px;
+}
+ 
